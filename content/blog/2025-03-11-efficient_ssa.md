@@ -2,7 +2,7 @@
 title = "Simple and Efficient Construction of Static Single Assignment Form"
 [[extra.authors]]
 name = "Dev Patel"
-link = "https://www.cs.cornell.edu/~asampson/"
+link = "https://devv64.vercel.app/"
 [[extra.authors]]
 name = "Neel Patel"
 link = "https://www.csl.cornell.edu/~neel/"
